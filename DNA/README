@@ -8,3 +8,6 @@ ordered in a specific way. They can repeat during the DNA a few times, and this 
 of some variations of these genes, is an identity linked to a living being.
 
 Use the files correctly and interact by discovering who owns the DNA of the Harry Potter characters!
+
+The .txt files ranging from 1 to 4 are characters for the smaller list, and the .txt files ranging from 5 to 20 are compatible with the large list. The program also finds out 
+if that DNA belongs to any person by saying, "No match"
