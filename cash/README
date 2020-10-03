@@ -1,0 +1,3 @@
+This program minimizes the amount of coins that must be exchanged for a customer. 
+It works based on quarters (25 ¢), dimes (10 ¢), nickels (5 ¢), and pennies (1 ¢). 
+You say the change value in dollars and the program will return the minimum number of coins to be given.
